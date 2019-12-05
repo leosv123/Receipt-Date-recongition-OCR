@@ -12,6 +12,8 @@ Later the Images only the detected parts are considered using the Google tessera
 <h5>BILL receipt dates<h5>
 <html>
 <img src="https://github.com/leosv123/Receipt-Date-recongition-OCR/blob/master/results_of%20_CNN/Screenshot%20(71).png">
+ 
+ <h4>second Result</h4>
  <img src="https://github.com/leosv123/Receipt-Date-recongition-OCR/blob/master/results_of%20_CNN/Screenshot%20(74).png">
   </html>
   
