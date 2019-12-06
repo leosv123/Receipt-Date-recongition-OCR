@@ -2,6 +2,8 @@
 <h3>Fyle Problem Statement</h3>
 <h5>Lingraj S V</h5>
 
+To extract the date from the bill receipts of the images and build an cloud API.
+
 The images of Bill reciepts approximately 500 images are considered Using Faster RCNN Model the bounding box prediction of Date 
 is done with Resnet50 Architecture as backened.
 
