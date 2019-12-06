@@ -1,6 +1,6 @@
 # Receipt-Date-recongition-OCR
-Fyle
-Lingraj S V
+<h3>Fyle Problem Statement</h3>
+<h5>Lingraj S V</h5>
 
 The images of Bill reciepts approximately 500 images are considered Using Faster RCNN Model the bounding box prediction of Date 
 is done with Resnet50 Architecture as backened.
