@@ -1,4 +1,6 @@
 # Receipt-Date-recongition-OCR
+Fyle
+Lingraj S V
 
 The images of Bill reciepts approximately 500 images are considered Using Faster RCNN Model the bounding box prediction of Date 
 is done with Resnet50 Architecture as backened.
@@ -7,7 +9,7 @@ Later the Images only the detected parts are considered using the Google tessera
 <h2>Model Flow diagram</h2>
 <img src="https://github.com/leosv123/Receipt-Date-recongition-OCR/blob/master/Model%20architecture%20Flow%20Diagram/Model.PNG">
 
-<h2>Accuracy of 80%</h2>
+<h3>Accuracy of 90% only after training  for less number of iterations which can be increased further</h3>
 
 <h5>BILL receipt dates<h5>
 <html>
