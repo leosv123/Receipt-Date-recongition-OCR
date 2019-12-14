@@ -1,6 +1,5 @@
 # Receipt-Date-recongition-OCR
-<h3>Fyle Problem Statement</h3>
-<h5>Lingraj S V</h5>
+
 
 To extract the date from the bill receipts of the images and build an cloud API.
 
